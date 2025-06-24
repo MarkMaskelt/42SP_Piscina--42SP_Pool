@@ -18,4 +18,4 @@ Os dois primeiros dias do bootcamp são dedicados ao aprendizado de comandos she
 para navegar facilmente pelo terminal.
 
 ## Git
-Todos os projetos são enviados por meio de um repositório Git remoto.
+Todos os projetos são enviados por meio de um repositório Git.
