@@ -1,4 +1,4 @@
-# 42SP_Piscina--42SP_Pool
+# 42SP_Piscina
 
 Este repositório contém códigos desenvolvidos no bootcamp C do 42saopauloPiscine, de 26/mai/2025 a 20/jun/2025.
 
